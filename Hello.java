@@ -17,3 +17,6 @@ public class Hello{
 	System.out.println("您输入的整数共"+count+"位。");
 	}
 }
+
+
+/*做一点修改*/
